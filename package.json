@@ -1,0 +1,23 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Node Mysql assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jml14/nodejs-mysql.git"
+  },
+  "author": "Jeremy Lipsitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jml14/nodejs-mysql/issues"
+  },
+  "homepage": "https://github.com/jml14/nodejs-mysql#readme",
+  "dependencies": {
+    "inquirer": "^4.0.2",
+    "mysql": "^2.15.0"
+  }
+}
